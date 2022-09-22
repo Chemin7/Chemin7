@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emanuel</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-- 🔭 I’m currently working on [student list with file managment](https://github.com/Chemin7/Student-List-with-file-managment.git)
-
 - 🌱 I’m currently learning **Javascript,algorithms and python in Freecodecamp and Codecademy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chemin7](https://github.com/Chemin7)
